@@ -16,21 +16,10 @@ Uses arrays to store and manage student data.
 Java Development Kit (JDK) 8 or above.
 A Java IDE (like IntelliJ IDEA, Eclipse, or VS Code) or command-line tools for compilation and execution.
 
-=> Installation
-
-1. Clone the repository:
-git clone https://github.com/Abdur-Rehman-AR/CodeAlpha_Student_Grade_Tracker.git
-
-2. Navigate to the project directory:
-cd CodeAlpha_Student_Grade_Tracker
-
-3. Open the project in your preferred IDE or compile it using the command line:
-javac Project_1.java
 
 => Usage
 
-1. Run the program:
-java Project_1
+1. Run the program.
 
 2. Follow the on-screen instructions:
 Enter 1 to input student grades and calculate statistics.
